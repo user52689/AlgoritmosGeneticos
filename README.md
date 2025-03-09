@@ -17,7 +17,7 @@ El programa ejecuta iteraciones hasta que se encuentra la palabra objetivo o se 
 - Repeticion: Se generan nuevas generaciones hasta encontrar la palabra objetivo.
 
 # Personalizacion
-objetivo: La palabra que quieres encontrar.
-tamano_poblacion: Cantidad de individuos en cada generacion.
-generaciones_max: Número maximo de generaciones.
-tasa_mutacion: Probabilidad de mutacion en cada individuo.
+- objetivo: La palabra que quieres encontrar.
+- tamano_poblacion: Cantidad de individuos en cada generacion.
+- generaciones_max: Número maximo de generaciones.
+- tasa_mutacion: Probabilidad de mutacion en cada individuo.
