@@ -2,7 +2,7 @@
 Este repositorio contiene una implementacion de un algoritmo genetico diseñado para encontrar una palabra objetivo a partir de una poblacion inicial de cadenas aleatorias.
 
 # Descripcion
-Un algoritmo genetico es una tecnica de optimizacion inspirada en la evolución biologica. En este caso, se usa para generar palabras que se aproximan progresivamente a una palabra objetivo mediante los principios de:
+Un algoritmo genetico es una tecnica de optimizacion inspirada en la evolucion biologica. En este caso, se usa para generar palabras que se aproximan progresivamente a una palabra objetivo mediante los principios de:
 - Seleccion natural: Se eligen los mejores individuos.
 - Cruce: Se combinan caracteristicas de los padres.
 - Mutacion: Se introducen pequeñas variaciones aleatorias.
